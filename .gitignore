@@ -106,4 +106,4 @@ local_settings.py
 
 .env
 db.sqlite3
-/.moderation-engine-env/
+/.matchmaking-venv/
